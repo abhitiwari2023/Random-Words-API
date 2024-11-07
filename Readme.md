@@ -1,6 +1,6 @@
 # YouTube Search Query List 🔍
 
-A curated collection of YouTube search queries in multiple languages. Created by Abhi(@abhitiwari2023) ✨
+A curated collection of YouTube search queries in multiple languages. Created by [Abhi](@abhitiwari2023) ✨
 
 ## Purpose 🎯
 This repository provides a collection of commonly used YouTube search queries across different languages using JSON format.
