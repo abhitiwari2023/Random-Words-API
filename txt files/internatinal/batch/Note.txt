@@ -1,0 +1,4 @@
+First Five -> Basque, Belarusia, Chichewa, corsican, Haitian Creole
+First Five to Ten -> Hausa, Hawaiian, Hmong, Igbo, Javanese
+First Ten to Fifteen -> Kinyarwanda, Luxembourgish, Malagasy, Nepali, Pashto
+First Fifteen to Twenty -> Sesotho, Shona, Somali, xhosa, Zulu
